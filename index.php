@@ -4,7 +4,7 @@
     </head>
 
     <body>
-        <h1>Welcome to my App!</h1></b>
+        <h1>Welcome to Journal Keeper!</h1></b>
         <h3>Please Login!</h3></b>
             <p>If you haven't made an account, register!</p>
             <a href="login.php">
